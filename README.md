@@ -42,7 +42,7 @@
 ```bash
 $ git clone https://github.com/GONX729/Garuda-Osint
 $ cd Garuda-Osint
-$ bash linuxinstall.sh
+$ bash install.sh
 $ python3 garudaOx.py
 ```
 
