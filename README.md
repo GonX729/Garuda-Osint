@@ -1,4 +1,4 @@
-<h1 align="center">Garuda_OSinT</h1>
+<h1 align="center">G a r u d a  O s i n T</h1>
 
 <p align="center">
   <img src="https://github.com/GONX729/Garuda-Osint/blob/main/image/Garuddda.jpg?raw=true" alt="Garuda Logo" width="300"/>
